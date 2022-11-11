@@ -12,4 +12,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     // Connect Firebase to the project
+    // Add login feature
 }
