@@ -10,4 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         val hello:String = "Hello Git!"
     }
+
+    // Connect Firebase to the project
 }
